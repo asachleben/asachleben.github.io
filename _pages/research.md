@@ -8,7 +8,7 @@ author_profile: true
 
 **Sachleben, Audrey.** "Biographical Issue Appeals and Legislative Follow-Through"
 
-**Sachleben, Audrey** and Sarah A. Treul. "Issue Attention in Congressional Primary Elections." *Under review.*
+**Sachleben, Audrey** and Sarah A. Treul. "Issue Attention in Congressional Primary Elections." *Under review.* [[Working Paper]](/files/sachleben_treul_issues.pdf)
 
 Case, Colin R., **Audrey Sachleben**, and Sarah A. Treul. "Issue Publics and Issue Voting in Primary Elections."
 
