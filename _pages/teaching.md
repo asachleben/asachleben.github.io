@@ -8,7 +8,7 @@ I am committed to fostering an inclusive, discussion-based learning environment 
 
 ### University of North Carolina Chapel Hill -- Instructor of Record
 - Poli 200: The President, Congress, and Public Policy (Fall 2025)
-- 
+
 ### University of North Carolina Chapel Hill -- Teaching Assisstant
 - Poli 100: American Democracy in Changing Times (Fall 2024, Spring 2025)
 - UNC Political Science Graduate Methods Summer Program (Summer 2025)
