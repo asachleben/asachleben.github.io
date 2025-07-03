@@ -65,3 +65,17 @@
     font-weight: 700;
   }
 }
+
+.greedy-nav {
+  display: block !important;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.greedy-nav * {
+  flex: 0 0 auto;
+}
