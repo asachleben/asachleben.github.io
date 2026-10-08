@@ -10,11 +10,12 @@ author_profile: true
 
 ## Working Papers
 
+**Sachleben, Audrey.** "Biographical Issue Appeals and Legislative Follow-Through."  [[Working Paper]](/files/BIA_october5.pdf)
 
-**Sachleben, Audrey.** "Biographical Issue Appeals and Legislative Follow-Through."  [[Working Paper]](/files/Sachleben_BIA.pdf)
+Case, Colin R., **Audrey Sachleben**, and Sarah A. Treul. "Core Issue Priorities and Candidate Choice in
+Congressional Primaries."
 
-**Sachleben, Audrey.** "Measuring Party Cohesion in Congress."
+**Sachleben, Audrey.** "Member Alignment and Party Cohesion in the U.S. Congress."
 
-Case, Colin R., **Audrey Sachleben**, and Sarah A. Treul. "Issue Publics and Issue Voting in Primary Elections."
 
 
