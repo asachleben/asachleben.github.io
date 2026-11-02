@@ -10,7 +10,7 @@ author_profile: true
 
 ## Working Papers
 
-**Sachleben, Audrey.** "Biographical Issue Appeals and Legislative Follow-Through." *Under Review* [[Working Paper]](/files/BIA_sachleben.pdf)
+**Sachleben, Audrey.** "From Personal Experience to Policy: Biographical Issue Appeals and Legislative Commitment." *Under Review* [[Working Paper]](/files/BIA_sachleben.pdf)
 
 **Sachleben, Audrey.** "Member Alignment and Party Cohesion in the U.S. Congress."
 
